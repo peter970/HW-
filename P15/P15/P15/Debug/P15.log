@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\陳癸亨\desktop\hw5\p15\source\main.c(29): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  P15.vcxproj -> C:\Users\陳癸亨\Desktop\hw5\P15\P15\Debug\P15.exe
